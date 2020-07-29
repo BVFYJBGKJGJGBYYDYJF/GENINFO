@@ -1,2 +1,0 @@
-# GENINFO
-GitHub Pages
